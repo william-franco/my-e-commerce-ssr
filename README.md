@@ -1,6 +1,6 @@
 # My E-Commerce
 
-Under construction.
+SSR application for online store with product catalog, shopping cart, favorites list, ordering system, and advanced filters by category, price, and rating. Responsive interface with dark mode, session data persistence, and complete checkout flow with form validation.
 
 
 ## ScreenShots
